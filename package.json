@@ -1,0 +1,9 @@
+{
+  "name": "zk-proof-verifier-core",
+  "version": "1.0.0",
+  "description": "On-chain ZK-SNARK verification system",
+  "dependencies": {
+    "snarkjs": "^0.7.0",
+    "ethers": "^6.10.0"
+  }
+}
